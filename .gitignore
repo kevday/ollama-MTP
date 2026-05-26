@@ -14,5 +14,7 @@ test_data
 __debug_bin*
 llama/build
 llama/vendor
+build-vulkan
+ollama-new
 /ollama
 integration/testdata/models/
